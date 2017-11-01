@@ -1,4 +1,1 @@
-new file
-some more text
-some text
-some difference
+smoe more diff
